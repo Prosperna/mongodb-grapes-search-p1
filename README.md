@@ -4,6 +4,7 @@ MongoDBGrapesSearch-P1 is a powerful, easy-to-integrate search plugin for Grapes
 
 ## Directory Structure
 
+```shell
 mongodb-grapes-search-p1
 ├── dist
 │ └── index.js
@@ -15,6 +16,7 @@ mongodb-grapes-search-p1
 ├── rollup.config.js
 ├── .babelrc
 └── README.md
+```
 
 ## Installation
 
