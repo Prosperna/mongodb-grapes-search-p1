@@ -1,0 +1,25 @@
+{
+  "name": "mongodb-grapes-search-p1",
+  "version": "1.0.0",
+  "description": "MongoDBGrapesSearch-P1 is a powerful, easy-to-integrate search plugin for GrapesJS that leverages MongoDB's full-text search capabilities and Bootstrap 5.1.3 for a responsive and visually appealing UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GrapesJs",
+    "MongoDB",
+    "Full-text search",
+    "search",
+    "Bootstrap",
+    "Prosperna"
+  ],
+  "author": "Ruel Nopal",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.79.1",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
